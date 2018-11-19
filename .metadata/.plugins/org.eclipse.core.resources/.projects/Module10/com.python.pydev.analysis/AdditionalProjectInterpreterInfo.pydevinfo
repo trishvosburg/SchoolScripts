@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.core.resources/.projects/Module10/com.python.pydev.analysis/v2_indexcache
+parse_go_terms_oo|1541869101000000000|/Users/trish/workspace/BINF6200/Module10/parse_go_terms_oo.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=/Users/trish/workspace/BINF6200/Module10/parse_go_terms_oo.py
+4=GOterms.__init__
+3=GOterms
+2=parse_go_terms_oo
+-- END DICTIONARY
+-- START TREE 1
+7
+go_|3|go_dictionary!1^58#5*19@go_term_object!1^56#5*19@go_file!1^8#1*19@
+got|1|GOterms!1^18#7*17@
+id|1|id!1^57#5*19@
+out|1|output_file!1^9#1*19@
+rea|1|read_go_file!1^49#1*19@
+rec|1|records!1^52#1*19@
+spl|1|split_file!1^12#5*18@
+-- END TREE
+-- START TREE 2
+6
+__i|1|__init__!3&1^21#9*18@
+get|1|get_id!3&1^40#9*18@
+id|1|id!4&1^28#13*19@
+is_|2|is_a_list!4&1^31#13*19@is_as!4&1^32#13*19@
+nam|2|name!4&1^29#13*19@namespace!4&1^30#13*19@
+pri|1|print_all!3&1^44#9*18@
+-- END TREE

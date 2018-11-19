@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Module02/aoa.pl&apos; to &apos;Module2Practice.pl&apos;" description="Rename resource &apos;aoa.pl&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="aoa.pl" name="Module2Practice.pl" stamp="1536778996402" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Module02/Module2Practice.pl&apos; to &apos;MultidimensionalDataStructuresNotes.pl&apos;" description="Rename resource &apos;Module2Practice.pl&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Module2Practice.pl" name="MultidimensionalDataStructuresNotes.pl" stamp="1536780904215" updateReferences="true"/>
+</session>

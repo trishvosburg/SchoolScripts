@@ -1,0 +1,35 @@
+'''
+Created on Nov 14, 2018
+
+@author: trish
+'''
+
+# Reads in BLAST file and parses it for transcript ID and swissprot ID
+
+# Uses map() to iterate over the lines of the DE file and produce list of tuples
+# Each element in the list will correspond to a line in the file
+# Each element in the tuple will correspond to a field within that line of DE data
+# The first element in the tuple should be the protein ID, if not found, first element will be transcript
+
+# Prints tuples to an output file, should match Module09 output
+
+# HAS ONLY ONE FOR LOOP: builds dictionary of BLAST items
+
+# Parse one line of DE data and make transcript uppercase:
+def parse_matrix(matrix_line):
+    matrix_fields = matrix_line.rstrip("\n").split("\t")
+    matrix_fields[0] = matrix_fields[0].upper()
+    
+    # Convert list to tuple to ensure that state never changes, then return
+    return(tuple(matrix_fields))
+
+# Convert one tuple to tab-separated string
+def tuple_to_tab_sep(one_tuple):
+    return "\t".join(one_tuple)
+
+matrix = open("/scratch/RNASeq/diffExpr.P1e-3_C2.matrix")
+list_of_DE_tuples = map(parse_matrix, matrix.readlines())
+matrix.close()
+
+list_of_tabbed_lines = map(tuple_to_tab_sep, list_of_DE_tuples)
+print("\n".join(list_of_tabbed_lines))

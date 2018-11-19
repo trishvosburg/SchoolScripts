@@ -1,0 +1,31 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.core.resources/.projects/Module09/com.python.pydev.analysis/v2_indexcache
+gene_to_GO|1541537812000000000|/Users/trish/workspace/BINF6200/Module09/gene_to_GO.py
+print_alphabet|1541455511000000000|/Users/trish/workspace/BINF6200/Module09/print_alphabet.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=/Users/trish/workspace/BINF6200/Module09/gene_to_GO.py
+2=gene_to_GO
+3=/Users/trish/workspace/BINF6200/Module09/print_alphabet.py
+4=print_alphabet
+-- END DICTIONARY
+-- START TREE 1
+12
+fin|1|final_result!1^79#9*19@
+gen|4|genes!3^19#1*35@gene_file!1^9#1*19@gene_go_term!1^60#5*19@gene_dictionary!1^56#1*19@
+get|1|get_parents!1^28#5*18@
+go_|2|go_dictionary!1^49#1*19@go_file!1^8#1*19@
+out|1|output_file!1^10#1*19@
+par|1|parse_file!1^18#5*18@
+pri|1|print_alphabet!3^6#5*34@
+rea|1|read_go_file!1^44#1*19@
+rec|1|records!1^47#1*19@
+res|1|result!1^78#9*19@
+spl|1|split_file!1^13#5*18@
+var|1|variables!1^59#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

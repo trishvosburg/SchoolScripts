@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.core.resources/.projects/Module06/com.python.pydev.analysis/v2_indexcache
+maketrans_examples|1539262450000000000|/Users/trish/workspace/BINF6200/Module06/maketrans_examples.py
+calculating_AT_content|1539267413000000000|/Users/trish/workspace/BINF6200/Module06/calculating_AT_content.py
+complementing_dna|1539267746000000000|/Users/trish/workspace/BINF6200/Module06/complementing_dna.py
+hello_world|1539262017000000000|/Users/trish/workspace/BINF6200/Module06/hello_world.py
+restriction_fragment_lengths|1539266604000000000|/Users/trish/workspace/BINF6200/Module06/restriction_fragment_lengths.py
+math_practice|1539263433000000000|/Users/trish/workspace/BINF6200/Module06/math_practice.py
+splicing_introns|1539267391000000000|/Users/trish/workspace/BINF6200/Module06/splicing_introns.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=maketrans_examples
+2=calculating_AT_content
+3=/Users/trish/workspace/BINF6200/Module06/complementing_dna.py
+4=complementing_dna
+7=/Users/trish/workspace/BINF6200/Module06/splicing_introns.py
+5=/Users/trish/workspace/BINF6200/Module06/maketrans_examples.py
+9=/Users/trish/workspace/BINF6200/Module06/restriction_fragment_lengths.py
+10=restriction_fragment_lengths
+8=splicing_introns
+1=/Users/trish/workspace/BINF6200/Module06/calculating_AT_content.py
+-- END DICTIONARY
+-- START TREE 1
+12
+a_c|1|A_count!1^12#1*19@
+at_|1|AT_content!1^16#1*19@
+bas|1|bases!3^16#1*35@
+com|4|compl_table!5^9#1*51@compl_table!3^12#1*35@complement!3^13#1*35@complement!5^10#1*51@
+dna|5|dna!5^8#1*51@dna!3^11#1*35@dna!1^11#1*19@dna!7^15#1*67@dna!9^15#1*83@
+exo|2|exon_2!7^18#1*67@exon_1!7^16#1*67@
+fin|1|final_count!1^14#1*19@
+fra|2|fragment_1!9^18#1*83@fragment_2!9^20#1*83@
+int|1|intron!7^36#1*67@
+len|2|length_exon_1!7^26#1*67@length_exon_2!7^27#1*67@
+t_c|1|T_count!1^13#1*19@
+tot|2|total_exon_length!7^28#1*67@total_length!1^15#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

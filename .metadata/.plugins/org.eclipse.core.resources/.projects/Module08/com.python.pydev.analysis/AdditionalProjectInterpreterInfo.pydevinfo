@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.core.resources/.projects/Module08/com.python.pydev.analysis/v2_indexcache
+parse_go_terms|1540951505000000000|/Users/trish/workspace/BINF6200/Module08/parse_go_terms.py
+parse_blast2|1540752296000000000|/Users/trish/workspace/BINF6200/Module08/parse_blast2.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=parse_go_terms
+2=parse_blast2
+1=/Users/trish/workspace/BINF6200/Module08/parse_blast2.py
+3=/Users/trish/workspace/BINF6200/Module08/parse_go_terms.py
+-- END DICTIONARY
+-- START TREE 1
+13
+ana|1|analyze_blast_line!1^13#5*18@
+bla|2|blast_dictionary!1^27#1*19@blast_file!1^8#1*19@
+cre|1|create_dictionary!3^17#5*34@
+dif|2|diff_expr_file!1^9#1*19@diff_transcript!1^38#5*19@
+go_|2|go_dictionary!3^52#5*35@go_file!3^8#1*35@
+m1|1|m1!1^43#5*19@
+m2|1|m2!1^46#5*19@
+out|2|output_file!3^9#1*35@output_file!1^10#1*19@
+rea|1|read_go_file!3^43#1*35@
+rec|1|records!3^46#1*35@
+sp_|4|sp_ds!1^39#5*19@sp_hs!1^40#5*19@sp_log!1^41#5*19@sp_plat!1^42#5*19@
+spl|1|split_file!3^12#5*34@
+tes|1|test_line!1^23#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.core.resources/.projects/Module07/com.python.pydev.analysis/v2_indexcache
+quiz_example_code|1540049714000000000|/Users/trish/workspace/BINF6200/Module07/quiz_example_code.py
+parse_blast|1539812115000000000|/Users/trish/workspace/BINF6200/Module07/parse_blast.py
+loops_practice|1539804244000000000|/Users/trish/workspace/BINF6200/Module07/loops_practice.py
+analyze_blast|1540046315000000000|/Users/trish/workspace/BINF6200/Module07/analyze_blast.py
+reading_files_practice|1539803925000000000|/Users/trish/workspace/BINF6200/Module07/reading_files_practice.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+5=/Users/trish/workspace/BINF6200/Module07/reading_files_practice.py
+8=quiz_example_code
+1=/Users/trish/workspace/BINF6200/Module07/analyze_blast.py
+3=/Users/trish/workspace/BINF6200/Module07/parse_blast.py
+4=parse_blast
+9=/Users/trish/workspace/BINF6200/Module07/loops_practice.py
+10=loops_practice
+2=analyze_blast
+6=reading_files_practice
+7=/Users/trish/workspace/BINF6200/Module07/quiz_example_code.py
+-- END DICTIONARY
+-- START TREE 1
+14
+ana|1|analyze_blast_pident!1^14#5*18@
+bla|2|blast_file!3^9#1*35@blast_file!1^9#1*19@
+f|1|f!5^12#1*51@
+iso|1|isoform!3^31#5*35@
+my_|1|my_site_pos!7^13#1*67@
+oth|2|other_variables!3^21#5*35@other_variables_split!3^34#5*35@
+out|2|output_file!1^10#1*19@output_file!3^10#1*35@
+pid|1|pident!3^24#5*35@
+sea|1|search_peptide_motif!7^6#5*66@
+seq|2|seq_len!9^9#1*83@sequence!9^8#1*83@
+swi|1|swissprot!3^37#5*35@
+tes|1|test_line!1^32#1*19@
+tra|3|transcript_and_isoform_split!3^27#5*35@transcript!3^30#5*35@transcript_and_isoform!3^18#5*35@
+var|1|variables!3^15#5*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

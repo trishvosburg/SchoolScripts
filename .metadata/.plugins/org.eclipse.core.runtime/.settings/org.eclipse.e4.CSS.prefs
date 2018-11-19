@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+org.eclipse.e4.CSS.syntaxColorer.tokenStyles.Declaration.style=1
+org.eclipse.e4.CSS.syntaxColorer.tokenStyles.Element.style=1
+org.eclipse.e4.CSS.syntaxColorer.tokenStyles.punctuation.style=1
+org.eclipse.e4.CSS.syntaxColorer.tokenStyles.string.style=2
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.ClassID.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.Declaration.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.Element.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.comment.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.default.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.error.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.keyword.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.number.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.punctuation.bgColor=
+predarkestdark.org.eclipse.e4.CSS.syntaxColorer.tokenStyles.string.bgColor=

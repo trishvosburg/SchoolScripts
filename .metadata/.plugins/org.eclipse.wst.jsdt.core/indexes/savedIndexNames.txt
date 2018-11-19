@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1617503167.index
+2834755052.index
+2412436103.index
+1106072154.index
+464627159.index
+2254048638.index

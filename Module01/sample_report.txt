@@ -1,0 +1,1157 @@
+	NA		Sp_ds	Sp_hs	Sp_log	Sp_plat	
+c3833_g1_i2	Q09748	GO:0061025	4.00	0.07	16.84	26.37	membrane fusion
+
+c4832_g1_i1	O60164	GO:0043021	24.55	116.87	220.53	28.82	ribonucleoprotein complex binding
+
+c5161_g1_i1	NA	GO:0043021	107.49	89.39	26.95	698.97	ribonucleoprotein complex binding
+
+c4399_g1_i2	P36614	GO:1900490	27.91	72.57	5.56	36.58	positive regulation of hydroxymethylglutaryl-CoA reductase (NADPH) activity
+
+c5916_g1_i1	P37818	GO:0046872	82.57	19.03	48.55	258.22	metal ion binding
+
+c73_g1_i1	Q9URZ2	GO:0008150	109.25	0.00	1.69	249.04	biological_process
+
+c2672_g1_i1	Q9UTS7	GO:0016787	26.55	88.25	296.03	20.74	hydrolase activity
+
+c4859_g1_i1	P41887	GO:0061077	863.50	8798.74	2081.02	53.46	chaperone-mediated protein folding
+
+c6085_g1_i1	O14284	GO:0051321	86.52	34.05	6.62	77.17	meiotic cell cycle
+
+c5949_g1_i1	O94315	GO:0055114	544.55	88.38	9.00	770.03	oxidation-reduction process
+
+c4386_g1_i1	P40372	GO:0030529	107.79	220.35	259.27	28.43	ribonucleoprotein complex
+
+c196_g1_i1	Q10286	GO:0097319	72.46	18.65	64.38	174.75	carbohydrate import into cell
+
+c5627_g1_i1	O14400	GO:0055114	249.73	28.59	12.40	6.47	oxidation-reduction process
+
+c4754_g4_i2	P78831	GO:0055085	2369.93	44.61	150.75	892.83	transmembrane transport
+
+c181_g1_i1	P33289	GO:0007031	29.10	5.94	14.59	266.16	peroxisome organization
+
+c3727_g1_i1	O74777	GO:0042254	9.16	82.47	127.65	13.10	ribosome biogenesis
+
+c1919_g1_i2	O60184	GO:0043234	35.91	2.91	65.65	43.84	protein complex
+
+c3618_g1_i2	O13737	GO:0016021	69.61	44.53	11.11	153.07	integral component of membrane
+
+c5826_g1_i1	O13639	GO:0016787	199.51	522.24	741.82	97.39	hydrolase activity
+
+c6226_g1_i1	O94580	GO:0046872	26.75	229.84	13.74	34.84	metal ion binding
+
+c2796_g1_i1	O14082	GO:0055114	1442.26	1152.68	12.50	25.09	oxidation-reduction process
+
+c2856_g1_i1	O60153	GO:0032153	66.56	328.39	29.93	505.78	cell division site
+
+c3489_g1_i1	O74391	GO:0030529	111.67	466.24	367.75	38.03	ribonucleoprotein complex
+
+c6269_g1_i1	Q9P783	GO:0043234	9.28	50.49	143.92	8.85	protein complex
+
+c6600_g1_i1	O14044	GO:0042254	11.29	67.91	149.32	24.13	ribosome biogenesis
+
+c1207_g1_i1	Q09912	GO:0022627	507.70	3337.65	124.36	272.22	cytosolic small ribosomal subunit
+
+c5799_g1_i1	Q9Y7R8	GO:0055114	1349.40	838.75	131.87	4300.45	oxidation-reduction process
+
+c93_g1_i1	O94425	GO:0008150	367.79	408.65	3.11	118.68	biological_process
+
+c3104_g1_i2	O94547	GO:0051445	386.60	218.24	16.24	239.29	regulation of meiotic cell cycle
+
+c5218_g1_i1	O14359	GO:0016787	531.51	1074.84	84.40	182.85	hydrolase activity
+
+c3968_g1_i1	O74378	GO:0004591	304.61	117.15	63.24	589.38	oxoglutarate dehydrogenase (succinyl-transferring) activity
+
+c989_g1_i1	O14131	GO:0051692	233.66	137.53	12.59	344.19	cellular oligosaccharide catabolic process
+
+c2673_g1_i1	P87136	GO:0016021	61.98	41.10	5.90	83.73	integral component of membrane
+
+c5110_g1_i1	NA	GO:0016021	423.15	260.02	109.10	951.56	integral component of membrane
+
+c3123_g1_i1	B5BP47	GO:1902475	14.42	4.68	55.06	3.40	L-alpha-amino acid transmembrane transport
+
+c1180_g1_i1	O13908	GO:0055114	55.11	26.70	1.81	42.47	oxidation-reduction process
+
+c1170_g1_i1	O59715	GO:0055114	157.25	22.91	73.92	773.19	oxidation-reduction process
+
+c463_g1_i1	O59812	GO:0055114	267.81	3.72	5.84	14.06	oxidation-reduction process
+
+c894_g1_i1	O74492	GO:0033971	140.22	33.55	32.35	398.32	hydroxyisourate hydrolase activity
+
+c4176_g1_i1	O42654	GO:0051321	13.26	72.12	1.21	78.23	meiotic cell cycle
+
+c3592_g2_i1	O14020	GO:0016021	132.94	69.22	8.00	141.27	integral component of membrane
+
+c2449_g1_i1	O94639	GO:0071577	53.16	12.58	139.66	56.72	zinc ion transmembrane transport
+
+c1382_g1_i1	NA	GO:0071577	0.00	1.30	1.85	48.91	zinc ion transmembrane transport
+
+c6118_g1_i1	O94733	GO:0008150	703.76	364.70	20.14	553.02	biological_process
+
+c6221_g1_i1	NA	GO:0008150	5.85	0.00	1.96	215.17	biological_process
+
+c1327_g1_i2	O13947	GO:0070903	6.99	9.93	20.74	0.00	mitochondrial tRNA thio-modification
+
+c4650_g1_i1	O14150	GO:0042254	297.72	479.66	1206.82	57.91	ribosome biogenesis
+
+c1913_g1_i1	Q9HDU5	GO:0052574	313.39	20.42	13.10	226.83	UDP-D-galactose biosynthetic process
+
+c92_g1_i2	O74380	GO:0031966	36.33	27.48	0.00	28.05	mitochondrial membrane
+
+c6080_g1_i1	Q9URX6	GO:0030529	980.77	3626.94	2582.58	407.78	ribonucleoprotein complex
+
+c2435_g1_i1	O13716	GO:0071555	22.08	60.73	85.56	5.64	cell wall organization
+
+c2925_g1_i2	P40899	GO:0051321	24.14	61.16	22.28	2.96	meiotic cell cycle
+
+c5211_g1_i1	Q09802	GO:0008150	737.01	32.39	23.01	5883.71	biological_process
+
+c2896_g1_i1	P22189	GO:1990035	3.58	82.61	7.18	5.85	calcium ion import into cell
+
+c1234_g1_i1	Q04800	GO:0055114	6.09	2.34	115.56	3.96	oxidation-reduction process
+
+c6198_g1_i1	O14124	GO:0046872	267.26	139.17	44.23	1043.91	metal ion binding
+
+c353_g1_i1	Q9Y7X7	GO:0016192	930.28	839.49	21.27	474.16	vesicle-mediated transport
+
+c1453_g1_i1	P04551	GO:1902424	17.94	40.88	0.00	57.87	negative regulation of attachment of spindle microtubules to kinetochore involved in mitotic sister chromatid segregation
+
+c2811_g1_i2	Q09916	GO:0042254	9.93	78.40	152.12	11.27	ribosome biogenesis
+
+c1520_g1_i1	Q9P7E7	GO:0009986	22.55	162.08	246.38	32.09	cell surface
+
+c5786_g1_i1	O42893	GO:1903134	604.12	637.67	40.04	308.31	trehalose catabolic process involved in cellular response to stress
+
+c4802_g1_i1	Q92345	GO:0046872	185.97	1057.35	3644.47	574.41	metal ion binding
+
+c4189_g1_i2	B8I799	GO:0055114	29.61	13.91	4.67	406.54	oxidation-reduction process
+
+c4955_g1_i1	O60128	GO:0030529	1222.34	2630.18	3051.28	371.90	ribonucleoprotein complex
+
+c4716_g2_i1	O59855	GO:1900035	2187.25	12645.55	3456.67	73.59	negative regulation of cellular response to heat
+
+c92_g1_i1	O74380	GO:0031966	0.00	0.00	43.83	19.74	mitochondrial membrane
+
+c4754_g3_i1	Q9P3U6	GO:0055085	94.19	0.00	5.35	0.00	transmembrane transport
+
+c2948_g2_i1	P17476	GO:0030529	271.27	1255.70	869.40	32.48	ribonucleoprotein complex
+
+c5940_g1_i1	Q10306	GO:0046912	1406.86	531.82	175.71	2257.48	transferase activity, transferring acyl groups, acyl groups converted into alkyl on transfer
+
+c4945_g1_i1	O60071	GO:0030515	11.44	46.53	126.26	34.43	snoRNA binding
+
+c4637_g1_i1	Q9USG8	GO:0051321	256.63	80.09	13.31	74.69	meiotic cell cycle
+
+c4716_g2_i2	Q10265	GO:0051082	952.65	4871.26	592.76	47.82	unfolded protein binding
+
+c6256_g1_i1	Q9Y7N6	GO:0046475	29.26	12.01	9.80	178.97	glycerophospholipid catabolic process
+
+c768_g2_i1	Q9Y7Q3	GO:0008150	23.78	2.91	0.00	41.20	biological_process
+
+c1189_g1_i1	Q11118	GO:0051087	733.48	3351.38	810.50	155.54	chaperone binding
+
+c5109_g1_i1	O13991	GO:0055114	1049.77	561.52	83.32	316.13	oxidation-reduction process
+
+c6321_g1_i1	P87058	GO:0042779	39.87	250.54	300.38	32.21	tRNA end turnover
+
+c1032_g1_i1	O42842	GO:0046872	38.19	213.23	380.54	13.01	metal ion binding
+
+c4381_g1_i2	O59759	GO:0030968	21.35	15.59	0.00	46.00	endoplasmic reticulum unfolded protein response
+
+c956_g1_i1	Q10216	GO:0055114	1151.38	23.46	6.27	1644.86	oxidation-reduction process
+
+c5960_g1_i1	Q9HDU3	GO:0050662	166.83	31.53	8.48	59.18	coenzyme binding
+
+c4750_g2_i1	O59932	GO:0055056	525.96	26.39	9.95	29.38	D-glucose transmembrane transporter activity
+
+c933_g1_i2	NA	GO:0055056	2.69	211.34	1.24	1.67	D-glucose transmembrane transporter activity
+
+c4833_g1_i1	O13724	GO:0046872	32.81	1338.20	190.26	28.04	metal ion binding
+
+c4987_g1_i1	Q9P6J6	GO:0044275	17.85	121.65	20.36	8.94	cellular carbohydrate catabolic process
+
+c4446_g2_i1	NA	GO:0044275	21.40	111.83	2.53	18.59	cellular carbohydrate catabolic process
+
+c3940_g2_i1	Q9UT24	GO:0046540	5.79	8.09	11.58	0.00	histamine N-methyltransferase activity
+
+c2232_g1_i1	Q09179	GO:0019740	27.36	16.74	344.22	23.70	nitrogen utilization
+
+c4196_g2_i2	Q10367	GO:0048205	15.45	7.18	0.00	26.91	COPI coating of Golgi vesicle
+
+c4754_g4_i1	Q9P3U7	GO:0055085	176.19	30.36	314.33	391.02	transmembrane transport
+
+c1678_g1_i1	O74399	GO:0043234	16.47	70.81	139.33	15.47	protein complex
+
+c1424_g1_i1	P09202	GO:0046872	635.06	13.37	15.43	2282.34	metal ion binding
+
+c392_g1_i1	Q9P7Q6	GO:0051321	28.59	41.58	3.82	57.46	meiotic cell cycle
+
+c4747_g1_i1	P08093	GO:0030529	189.65	526.52	718.20	50.39	ribonucleoprotein complex
+
+c330_g1_i1	Q09715	GO:0045014	0.00	9.92	29.03	5.63	negative regulation of transcription by glucose
+
+c4533_g4_i1	Q9USV2	GO:0055114	0.00	37.33	15.08	11.41	oxidation-reduction process
+
+c4727_g1_i1	Q9C0U6	GO:0046835	64.78	36.31	15.15	161.99	carbohydrate phosphorylation
+
+c4526_g1_i1	O59814	GO:0055085	263.31	16.02	1.86	175.77	transmembrane transport
+
+c177_g1_i1	Q9UTP0	GO:0030529	82.55	453.10	364.31	4.22	ribonucleoprotein complex
+
+c2813_g1_i1	Q9UTH5	GO:0046475	62.64	17.55	245.36	211.44	glycerophospholipid catabolic process
+
+c4731_g1_i1	P0C8R3	GO:0046872	418.08	1156.20	849.89	97.37	metal ion binding
+
+c4722_g1_i1	O59768	GO:0098655	0.00	0.00	0.00	50.74	cation transmembrane transport
+
+c5026_g1_i1	O94629	GO:0045454	52.20	1267.17	86.53	216.30	cell redox homeostasis
+
+c2758_g2_i1	O13869	GO:0070131	18.80	170.48	43.98	8.80	positive regulation of mitochondrial translation
+
+c3726_g1_i1	P78970	GO:0050291	3.88	0.00	0.00	19.83	sphingosine N-acyltransferase activity
+
+c5272_g1_i1	Q9URV9	GO:0055114	12.69	365.12	26.87	2.88	oxidation-reduction process
+
+c2721_g4_i2	P87229	GO:0043234	47.64	32.55	2.29	50.88	protein complex
+
+c385_g1_i1	Q9P7L8	GO:0046872	10.97	7.81	1.54	38.68	metal ion binding
+
+c2439_g1_i1	NA	GO:0046872	17.00	21.41	349.11	19.20	metal ion binding
+
+c5510_g1_i1	O60079	GO:0036459	4.21	52.26	0.00	0.00	ubiquitinyl hydrolase activity
+
+c5037_g1_i1	Q9Y816	GO:0008150	23.35	195.05	10.58	29.25	biological_process
+
+c6492_g1_i1	NA	GO:0008150	235.68	844.12	885.50	86.29	biological_process
+
+c5052_g1_i1	O14069	GO:0030529	626.58	1912.00	2921.57	165.35	ribonucleoprotein complex
+
+c6023_g1_i1	O13912	GO:0016021	605.35	83.01	26.69	455.30	integral component of membrane
+
+c937_g1_i1	O74496	GO:0030126	6.11	5.04	3.25	68.72	COPI vesicle coat
+
+c4648_g1_i1	O13857	GO:0046475	41.63	6.69	3.57	46.17	glycerophospholipid catabolic process
+
+c1233_g1_i1	Q9UT59	GO:0055114	36.36	236.29	46.56	14.23	oxidation-reduction process
+
+c2623_g2_i1	Q9P6M2	GO:0008150	76.90	20.05	3.26	131.39	biological_process
+
+c1103_g1_i1	Q9P6I8	GO:0055114	65.39	12.21	10.04	249.56	oxidation-reduction process
+
+c4336_g1_i1	O13784	GO:0030529	531.87	1535.45	1158.99	171.40	ribonucleoprotein complex
+
+c4689_g1_i1	O42665	GO:0008150	2496.22	1208.94	39.97	1603.18	biological_process
+
+c1811_g1_i1	Q9C0W5	GO:0031966	163.70	45.02	20.76	353.78	mitochondrial membrane
+
+c1909_g1_i1	Q09713	GO:0006364	7.58	56.02	54.19	0.00	rRNA processing
+
+c2110_g1_i1	O60136	GO:0051286	50.95	16.42	8.58	86.63	cell tip
+
+c4688_g1_i1	Q9HDW7	GO:0071627	84.94	57.93	19.70	154.48	integral component of fungal-type vacuolar membrane
+
+c2464_g1_i2	O94599	GO:0016021	52.15	24.39	11.59	120.97	integral component of membrane
+
+c2314_g1_i1	Q9UUG1	GO:0042254	12.22	66.32	159.30	16.05	ribosome biogenesis
+
+c4395_g1_i3	O74333	GO:0090002	97.55	17.40	0.00	6.31	establishment of protein localization to plasma membrane
+
+c6165_g1_i1	Q09100	GO:0006364	2.38	14.51	76.35	6.48	rRNA processing
+
+c6010_g1_i1	O60143	GO:0030529	1060.29	3147.71	2910.37	269.65	ribonucleoprotein complex
+
+c4756_g2_i1	P0CT34	GO:0090305	13.96	212.06	52.48	41.97	nucleic acid phosphodiester bond hydrolysis
+
+c5834_g1_i1	P40387	GO:0090441	925.70	1760.39	114.18	264.24	trehalose biosynthesis in response to heat stress
+
+c5152_g1_i1	O14062	GO:0030529	487.70	2200.08	1634.91	153.48	ribonucleoprotein complex
+
+c4438_g1_i2	NA	GO:0030529	4.15	8.64	5.25	78.37	ribonucleoprotein complex
+
+c1541_g1_i1	NA	GO:0030529	82.55	6.20	1.10	407.14	ribonucleoprotein complex
+
+c14_g1_i2	Q09889	GO:0032153	2.36	5.25	0.00	185.25	cell division site
+
+c3710_g1_i1	Q09920	GO:0070627	8.79	6.45	331.50	3.12	ferrous iron import
+
+c5084_g1_i1	Q9USP8	GO:0055114	462.23	170.65	82.65	1343.03	oxidation-reduction process
+
+c2268_g1_i2	P87157	GO:0030131	12.43	11.87	3.23	77.00	clathrin adaptor complex
+
+c5038_g1_i1	NA	GO:0030131	835.97	6594.79	178.12	1313.01	clathrin adaptor complex
+
+c5928_g1_i1	NA	GO:0030131	8785.03	11720.86	291.58	17505.61	clathrin adaptor complex
+
+c2086_g1_i2	Q9URT2	GO:0006406	8.17	0.00	17.47	15.98	mRNA export from nucleus
+
+c2982_g1_i1	O13780	GO:0051286	83.04	14.87	47.95	156.84	cell tip
+
+c3617_g1_i2	P14068	GO:0051168	27.94	76.55	54.81	0.00	nuclear export
+
+c4967_g1_i1	Q09864	GO:0061077	444.06	2369.25	565.50	69.82	chaperone-mediated protein folding
+
+c5401_g1_i1	P21911	GO:0055114	614.49	327.72	153.28	1178.15	oxidation-reduction process
+
+c4998_g1_i1	O59838	GO:0050790	278.06	2036.46	695.91	104.17	regulation of catalytic activity
+
+c4636_g1_i1	O14050	GO:0055085	0.00	24.85	0.00	11.58	transmembrane transport
+
+c1486_g1_i1	Q09688	GO:0008150	102.80	42.68	18.55	1446.50	biological_process
+
+c545_g1_i1	Q9P6K9	GO:0055114	16.99	51.97	158.52	15.09	oxidation-reduction process
+
+c4756_g5_i1	P0CT42	GO:0090305	0.00	73.98	13.76	0.00	nucleic acid phosphodiester bond hydrolysis
+
+c6000_g1_i1	O74914	GO:0034599	962.90	182.78	8.39	677.21	cellular response to oxidative stress
+
+c169_g1_i1	Q9P782	GO:0051087	310.16	1986.52	301.97	118.05	chaperone binding
+
+c1744_g1_i1	Q9P378	GO:0071966	41.19	140.60	802.08	95.31	fungal-type cell wall polysaccharide metabolic process
+
+c4671_g1_i2	Q9C105	GO:1902409	7.51	21.76	71.21	10.32	mitotic cytokinetic cell separation
+
+c4502_g1_i1	O13614	GO:0030529	721.75	1617.63	1853.49	229.36	ribonucleoprotein complex
+
+c4633_g1_i1	Q10499	GO:0071452	336.87	47.83	8.52	169.56	cellular response to singlet oxygen
+
+c1416_g1_i1	Q10327	GO:0008150	761.83	69.56	20.51	188.08	biological_process
+
+c1729_g1_i1	Q9Y7P0	GO:0055114	167.67	65.19	35.31	833.93	oxidation-reduction process
+
+c1140_g1_i1	Q9USN5	GO:0055114	105.64	22.08	9.56	267.43	oxidation-reduction process
+
+c6155_g1_i1	O13912	GO:0016021	90.22	40.65	0.00	53.32	integral component of membrane
+
+c4754_g1_i1	Q9P3U6	GO:0055085	159.05	1.60	1.14	11.61	transmembrane transport
+
+c580_g1_i1	Q9P6I7	GO:0046872	17.22	15.75	191.70	29.03	metal ion binding
+
+c4853_g1_i1	O13972	GO:0035999	243.96	490.61	856.72	79.03	tetrahydrofolate interconversion
+
+c87_g1_i1	Q09892	GO:1990263	14.47	13.00	0.00	52.57	MAPK cascade in response to starvation
+
+c305_g1_i1	Q9P778	GO:0016787	73.80	656.12	40.92	48.25	hydrolase activity
+
+c4809_g1_i1	O94698	GO:0043234	3.86	57.58	117.69	7.89	protein complex
+
+c2673_g2_i1	NA	GO:0043234	30.87	8.36	0.00	33.98	protein complex
+
+c6038_g1_i1	NA	GO:0043234	7.37	38.05	0.00	37.67	protein complex
+
+c4639_g2_i2	P79013	GO:0042254	393.32	1068.55	1223.96	113.66	ribosome biogenesis
+
+c482_g1_i1	O94602	GO:0008150	128.36	112.60	23.66	325.29	biological_process
+
+c4601_g1_i2	O13945	GO:0044732	13.67	0.00	13.86	29.72	mitotic spindle pole body
+
+c5281_g1_i1	O60198	GO:0046872	47.54	331.33	756.09	26.34	metal ion binding
+
+c5166_g1_i1	Q9HGL6	GO:0042254	17.35	168.35	197.83	46.65	ribosome biogenesis
+
+c1155_g1_i1	P78797	GO:0008150	19.60	243.83	14.88	54.98	biological_process
+
+c4561_g2_i1	O59675	GO:0042254	780.67	2435.09	2228.73	145.31	ribosome biogenesis
+
+c3784_g1_i1	Q09745	GO:0055114	314.75	1377.55	107.76	221.22	oxidation-reduction process
+
+c2216_g1_i1	O13889	GO:0032063	42.25	25.90	9.65	116.26	negative regulation of translational initiation in response to osmotic stress
+
+c5069_g1_i1	O74791	GO:0042254	13.80	102.64	206.92	46.99	ribosome biogenesis
+
+c1033_g1_i1	Q9UUH8	GO:0016021	39.18	0.00	12.09	111.88	integral component of membrane
+
+c2585_g1_i1	Q9UT63	GO:0016787	276.18	69.36	4.12	90.22	hydrolase activity
+
+c4746_g1_i3	Q09740	GO:0045229	0.00	4.91	10.00	26.34	external encapsulating structure organization
+
+c6235_g1_i1	O13725	GO:0052856	215.06	56.05	6.59	629.04	NADHX epimerase activity
+
+c4971_g1_i1	O94440	GO:0016021	1619.81	631.10	17.44	1222.13	integral component of membrane
+
+c1088_g1_i1	Q10111	GO:0008150	33.30	8.49	3.22	0.00	biological_process
+
+c5897_g1_i1	Q9USI5	GO:0043234	367.94	2611.91	362.31	101.21	protein complex
+
+c5846_g1_i1	O42909	GO:0055114	867.49	1077.02	58.95	1174.82	oxidation-reduction process
+
+c4619_g2_i1	Q9UUC1	GO:0030529	353.64	1331.03	1402.56	109.40	ribonucleoprotein complex
+
+c2248_g1_i2	NA	GO:0030529	12.35	0.00	1.59	111.70	ribonucleoprotein complex
+
+c3115_g1_i1	O74395	GO:0055072	54.05	13.88	322.91	68.43	iron ion homeostasis
+
+c3473_g1_i1	O13802	GO:0044732	18.22	95.23	190.04	30.24	mitotic spindle pole body
+
+c5817_g1_i1	Q8TPV2	GO:0051539	4172.13	2138.13	10.83	899.42	iron-sulfur cluster binding
+
+c5525_g1_i1	NA	GO:0051539	8.36	0.00	2.26	95.08	iron-sulfur cluster binding
+
+c4979_g1_i1	Q10101	GO:0042254	1763.87	4578.67	5506.98	720.04	ribosome biogenesis
+
+c4364_g1_i2	O43120	GO:0045292	28.34	38.66	0.05	13.52	mRNA cis splicing, via spliceosome
+
+c5856_g1_i1	Q9UTI1	GO:0070628	0.00	0.00	7.98	95.18	proteasome binding
+
+c133_g1_i1	Q9P7B4	GO:0055114	185.91	670.81	65.52	199.51	oxidation-reduction process
+
+c5340_g1_i1	O14317	GO:0030529	255.90	1057.34	1158.57	7.20	ribonucleoprotein complex
+
+c3718_g2_i1	O59721	GO:0031119	19.79	0.00	10.89	30.95	tRNA pseudouridine synthesis
+
+c3013_g1_i1	O13772	GO:0008150	36.91	116.24	8.79	42.84	biological_process
+
+c2826_g1_i1	NA	GO:0008150	0.00	111.77	0.00	0.00	biological_process
+
+c3408_g2_i1	P78972	GO:0072686	4.67	22.20	81.46	8.96	mitotic spindle
+
+c6135_g1_i1	O59858	GO:0071470	1529.49	3235.30	143.54	1980.15	cellular response to osmotic stress
+
+c6194_g1_i1	P87147	GO:0043130	383.44	994.83	973.19	107.32	ubiquitin binding
+
+c4703_g2_i1	O94487	GO:0051321	15.78	158.80	7.67	64.00	meiotic cell cycle
+
+c1859_g1_i2	Q96WU9	GO:0008150	61.35	0.00	2.95	79.54	biological_process
+
+c5297_g1_i1	Q10352	GO:0055114	38.49	361.16	47.19	37.88	oxidation-reduction process
+
+c4712_g3_i1	O14367	GO:0035432	60.79	8.81	7.40	251.67	positive regulation of gluconate transmembrane transport
+
+c66_g1_i1	O94435	GO:0051321	325.45	603.49	42.01	686.98	meiotic cell cycle
+
+c4378_g1_i3	O94721	GO:0008150	8.50	26.50	85.62	0.00	biological_process
+
+c3069_g1_i1	NA	GO:0008150	12.00	295.63	8.03	12.27	biological_process
+
+c2123_g1_i1	O74215	GO:0050354	88.92	6.47	6.66	939.95	triokinase activity
+
+c2464_g1_i1	O94599	GO:0016021	2.80	0.00	0.00	21.42	integral component of membrane
+
+c2287_g1_i1	P78812	GO:0055114	5073.93	4018.74	691.17	323.68	oxidation-reduction process
+
+c3447_g1_i1	Q9URZ1	GO:0032259	20.49	2.31	5.75	66.16	methylation
+
+c4189_g1_i3	P78798	GO:0043234	76.88	16.73	7.31	485.63	protein complex
+
+c4686_g1_i2	O74899	GO:1903092	7.27	4.11	0.00	207.70	pyridoxine transmembrane transport
+
+c2869_g1_i1	O94402	GO:0071577	24.25	11.63	6.72	88.20	zinc ion transmembrane transport
+
+c6428_g1_i1	NA	GO:0071577	0.00	127.54	0.00	0.00	zinc ion transmembrane transport
+
+c4786_g1_i1	P24488	GO:0000978	1183.44	717.13	31.73	2260.66	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+
+c2128_g1_i1	Q96WW3	GO:0008150	12.98	120.05	189.72	62.53	biological_process
+
+c2096_g1_i2	O36021	GO:0042254	0.00	0.00	33.16	0.00	ribosome biogenesis
+
+c1910_g1_i1	NA	GO:0042254	2.25	0.00	0.00	75.45	ribosome biogenesis
+
+c5946_g1_i1	NA	GO:0042254	166.45	1481.30	142.46	146.15	ribosome biogenesis
+
+c4849_g1_i1	Q9P7K6	GO:0042256	2360.17	8144.43	67.99	434.08	mature ribosome assembly
+
+c1661_g1_i1	Q10066	GO:0046872	185.69	721.94	1503.96	184.21	metal ion binding
+
+c3245_g1_i1	NA	GO:0046872	45.20	1.25	28.45	2.72	metal ion binding
+
+c3079_g1_i1	O74888	GO:0031966	155.60	693.05	30.09	143.68	mitochondrial membrane
+
+c4742_g1_i1	Q9P7B2	GO:0042254	568.98	3038.47	2262.96	154.41	ribosome biogenesis
+
+c236_g1_i1	O94268	GO:0042254	14.34	79.99	188.08	19.54	ribosome biogenesis
+
+c2933_g1_i1	O74875	GO:0055114	1.64	122.56	23.07	18.47	oxidation-reduction process
+
+c6011_g1_i1	Q8NKC2	GO:0061621	299.34	6.55	4.92	245.54	canonical glycolysis
+
+c2691_g1_i1	O74470	GO:0055114	306.89	60.57	2.39	21.96	oxidation-reduction process
+
+c4471_g2_i2	NA	GO:0055114	1616.22	1895.55	211.99	1117.95	oxidation-reduction process
+
+c2958_g1_i1	O14369	GO:0006413	20.98	33.34	114.79	10.85	translational initiation
+
+c5134_g1_i1	O94564	GO:0055114	247.03	31.97	12.82	495.41	oxidation-reduction process
+
+c4925_g1_i1	O13901	GO:0016780	897.04	162.24	71.65	876.48	phosphotransferase activity, for other substituted phosphate groups
+
+c3778_g3_i1	O94342	GO:0055085	14.29	7.78	5.08	87.12	transmembrane transport
+
+c6111_g1_i1	O13848	GO:0055114	969.14	687.76	50.14	960.57	oxidation-reduction process
+
+c3805_g1_i1	O42889	GO:0008152	70.13	4.75	3.38	108.18	metabolic process
+
+c1292_g1_i1	NA	GO:0008152	41.34	0.00	0.00	98.93	metabolic process
+
+c2705_g1_i1	Q9HDU6	GO:0055114	15.07	22.45	92.45	7.24	oxidation-reduction process
+
+c4240_g1_i1	Q7Z9I0	GO:1902047	22.97	15.46	213.35	122.11	polyamine transmembrane transport
+
+c5323_g1_i1	O13905	GO:0008150	39.54	162.69	46.53	16.32	biological_process
+
+c3617_g1_i1	P14068	GO:0051168	21.09	0.00	0.03	19.77	nuclear export
+
+c4340_g3_i1	O14123	GO:1902600	0.00	83.34	11.09	10.27	hydrogen ion transmembrane transport
+
+c5379_g1_i1	O13901	GO:0016780	0.00	0.00	37.56	0.00	phosphotransferase activity, for other substituted phosphate groups
+
+c5872_g1_i1	O74959	GO:0055114	349.82	75.67	47.10	452.04	oxidation-reduction process
+
+c6384_g1_i1	NA	GO:0055114	7.53	1000.48	3.36	18.80	oxidation-reduction process
+
+c1512_g1_i1	O14363	GO:0030529	74.54	283.67	393.45	31.33	ribonucleoprotein complex
+
+c4750_g3_i1	Q92339	GO:0055056	221.05	87.07	2.56	93.49	D-glucose transmembrane transporter activity
+
+c3484_g1_i1	Q10195	GO:0008150	1530.48	2751.82	81.26	938.56	biological_process
+
+c5136_g1_i1	NA	GO:0008150	23.15	304.05	105.77	352.16	biological_process
+
+c4957_g1_i1	NA	GO:0008150	2136.53	4218.78	23.29	2462.47	biological_process
+
+c2266_g1_i2	Q9UTE5	GO:0071849	4.54	26.02	0.00	3.19	actin filament debranching
+
+c2926_g1_i1	O94358	GO:0008150	173.62	115.58	13.94	177.74	biological_process
+
+c3801_g2_i1	O94462	GO:0016020	120.38	39.17	19.19	183.10	membrane
+
+c4723_g2_i1	O13854	GO:0009986	34.24	192.20	196.26	15.83	cell surface
+
+c4747_g1_i2	P08093	GO:0030529	925.31	2348.90	2768.00	379.99	ribonucleoprotein complex
+
+c5904_g1_i1	O36029	GO:0008150	144.24	3.27	0.00	767.83	biological_process
+
+c5002_g1_i1	O13990	GO:0070879	112.10	247.43	52.84	726.10	fungal-type cell wall beta-glucan metabolic process
+
+c5027_g1_i1	Q9Y7K0	GO:0008150	330.44	111.89	32.40	407.89	biological_process
+
+c1408_g1_i1	Q09903	GO:0042254	4.65	32.73	76.03	17.58	ribosome biogenesis
+
+c3441_g1_i1	O13966	GO:0051539	1278.80	556.42	250.28	2885.78	iron-sulfur cluster binding
+
+c2881_g1_i1	Q9URU6	GO:0004338	9.46	53.99	245.08	5.37	geranyltranstransferase activity
+
+c6243_g1_i1	NA	GO:0004338	410.60	2323.42	2133.01	222.67	geranyltranstransferase activity
+
+c1788_g1_i1	O74191	GO:0018208	15.74	156.08	547.92	21.44	peptidyl-proline modification
+
+c4501_g1_i2	O60144	GO:0042254	752.29	2782.88	2041.03	340.25	ribosome biogenesis
+
+c3801_g1_i1	NA	GO:0042254	87.74	28.30	3.67	97.12	ribosome biogenesis
+
+c4689_g2_i1	O42663	GO:0008150	418.75	2421.90	52.84	353.08	biological_process
+
+c1439_g1_i1	Q9P5M9	GO:0051321	364.70	42.88	5.24	545.21	meiotic cell cycle
+
+c4775_g1_i1	Q9C0Y4	GO:0090599	2600.48	21.41	15.26	3106.78	NA
+c4398_g2_i1	O74325	GO:0051603	58.23	11.75	8.83	135.39	proteolysis involved in cellular protein catabolic process
+
+c2106_g1_i1	Q9UUJ9	GO:0016787	281.74	32.15	27.64	805.86	hydrolase activity
+
+c1496_g1_i1	O14258	GO:0005737	3.67	5.96	67.56	6.86	cytoplasm
+
+c349_g1_i2	Q9UUN5	GO:0030134	14.96	69.87	116.18	8.52	ER to Golgi transport vesicle
+
+c6062_g1_i1	O13696	GO:0055114	327.31	113.89	63.00	773.82	oxidation-reduction process
+
+c4386_g1_i3	P36584	GO:0030529	426.63	707.07	1233.66	136.36	ribonucleoprotein complex
+
+c3216_g2_i1	Q10157	GO:0042254	657.33	1974.52	2225.61	183.79	ribosome biogenesis
+
+c4660_g1_i1	O94435	GO:0051321	0.00	102.50	10.25	0.00	meiotic cell cycle
+
+c1294_g1_i1	P36629	GO:0045292	34.23	201.01	73.79	22.19	mRNA cis splicing, via spliceosome
+
+c2785_g1_i2	Q9P371	GO:0046872	0.00	24.93	3.36	22.39	metal ion binding
+
+c4201_g2_i2	O94622	GO:0042125	29.56	42.17	16.35	1.59	protein galactosylation
+
+c6252_g1_i1	P18172	GO:0055114	0.00	0.00	0.00	92.68	oxidation-reduction process
+
+c4181_g1_i1	Q9Y7N4	GO:1902114	17.97	31.12	6.21	75.03	D-valine metabolic process
+
+c3912_g1_i1	P87139	GO:0046872	80.73	10.91	14.25	323.36	metal ion binding
+
+c4848_g1_i1	Q9HDX6	GO:0032446	10.51	0.00	66.77	196.30	protein modification by small protein conjugation
+
+c4641_g1_i2	O13749	GO:0046872	91.68	112.74	26.71	242.62	metal ion binding
+
+c5953_g1_i1	Q9Y7X7	GO:0016192	0.69	0.00	45.20	0.00	vesicle-mediated transport
+
+c4535_g1_i1	O59826	GO:0055085	202.96	34.77	18.59	198.37	transmembrane transport
+
+c4351_g1_i1	NA	GO:0055085	18.42	14.81	7.92	150.57	transmembrane transport
+
+c2956_g1_i1	O13917	GO:0052657	34.44	113.61	204.04	23.10	guanine phosphoribosyltransferase activity
+
+c5922_g1_i1	O59852	GO:0034484	1984.15	18.95	13.24	1115.88	raffinose catabolic process
+
+c648_g1_i1	Q9P779	GO:0035091	32.36	24.46	3.61	52.05	phosphatidylinositol binding
+
+c5036_g1_i1	NA	GO:0035091	2245.52	710.44	239.09	6969.63	phosphatidylinositol binding
+
+c760_g1_i1	Q9UUD6	GO:0036459	49.97	15.12	23.42	141.24	ubiquitinyl hydrolase activity
+
+c4428_g1_i1	Q9P7D9	GO:0072686	22.37	23.87	3.83	87.99	mitotic spindle
+
+c4712_g1_i2	NA	GO:0072686	3.81	3.56	1.19	58.51	mitotic spindle
+
+c147_g1_i1	O60077	GO:0044732	85.26	104.46	10.42	163.48	mitotic spindle pole body
+
+c2389_g1_i2	Q96TL7	GO:1901581	0.00	48.22	7.23	0.00	negative regulation of telomeric RNA transcription from RNA pol II promoter
+
+c6086_g1_i1	O74992	GO:0016021	106.06	227.29	4.84	1075.51	integral component of membrane
+
+c362_g1_i1	Q9P6Q5	GO:0046872	28.34	72.28	131.23	7.24	metal ion binding
+
+c199_g1_i1	O74412	GO:1902467	19.10	4.41	6.86	65.85	regulation of mitotic cytokinetic cell separation
+
+c6403_g1_i1	Q8NKC1	GO:0046872	44.68	17.15	11.20	127.63	metal ion binding
+
+c4746_g1_i2	Q09740	GO:0045229	0.00	0.00	0.00	12.61	external encapsulating structure organization
+
+c2389_g1_i1	Q96TL7	GO:1901581	14.77	0.00	0.00	18.12	negative regulation of telomeric RNA transcription from RNA pol II promoter
+
+c1244_g1_i1	O13709	GO:0008150	60.78	40.10	12.27	125.69	biological_process
+
+c4259_g1_i1	O59746	GO:0046872	49.75	11.85	41.20	136.87	metal ion binding
+
+c822_g1_i1	Q01682	GO:0036225	15.82	32.99	82.86	6.59	pairing center
+
+c1375_g1_i1	O13938	GO:0016021	20.09	11.78	2.52	58.16	integral component of membrane
+
+c4754_g2_i1	NA	GO:0016021	119.05	0.00	0.00	5.29	integral component of membrane
+
+c4627_g1_i1	O94322	GO:0055114	1068.61	473.17	13.28	723.15	oxidation-reduction process
+
+c4839_g1_i1	O94641	GO:0051087	589.36	4900.68	69.15	294.21	chaperone binding
+
+c3892_g1_i2	O43066	GO:0030479	10.28	0.02	7.46	59.67	actin cortical patch
+
+c5021_g1_i1	NA	GO:0030479	5.16	74.06	0.00	12.65	actin cortical patch
+
+c5214_g1_i1	Q10232	GO:0030529	704.08	2250.47	1783.96	283.16	ribonucleoprotein complex
+
+c4929_g1_i1	O74887	GO:0055114	2052.39	12732.46	1417.39	1760.01	oxidation-reduction process
+
+c5122_g1_i1	O14400	GO:0055114	1060.50	111.38	22.18	59.78	oxidation-reduction process
+
+c4603_g1_i2	Q5UQ88	GO:0042262	90.90	510.34	780.58	65.62	DNA protection
+
+c6166_g1_i1	NA	GO:0042262	813.05	287.41	12.72	5752.11	DNA protection
+
+c4618_g2_i1	O14469	GO:0030529	176.37	418.99	703.48	26.43	ribonucleoprotein complex
+
+c4858_g1_i1	O94632	GO:0051321	123.36	8.53	12.68	64.69	meiotic cell cycle
+
+c6097_g1_i1	O74442	GO:0036459	0.00	18.35	25.69	44.36	ubiquitinyl hydrolase activity
+
+c6016_g1_i1	NA	GO:0036459	1362.26	3992.17	3521.94	450.13	ubiquitinyl hydrolase activity
+
+c4446_g1_i1	G2TRT0	GO:0043547	19.45	65.48	0.00	29.99	positive regulation of GTPase activity
+
+c4725_g2_i1	Q9P5N2	GO:0055085	11.66	49.71	88.76	1.67	transmembrane transport
+
+c4228_g1_i2	Q9HDZ2	GO:0071852	8.83	0.00	0.00	14.45	fungal-type cell wall organization or biogenesis
+
+c6218_g1_i1	P40373	GO:0016757	53.71	176.74	379.47	37.12	transferase activity, transferring glycosyl groups
+
+c1546_g1_i2	Q9Y7N9	GO:0035091	4.00	0.00	0.00	25.67	phosphatidylinositol binding
+
+c2018_g1_i2	NA	GO:0035091	18.39	19.74	0.00	61.54	phosphatidylinositol binding
+
+c1348_g1_i2	O60119	GO:0051685	20.96	56.32	3.52	157.71	maintenance of ER location
+
+c1759_g1_i1	O94300	GO:0055085	17.05	29.72	159.65	14.11	transmembrane transport
+
+c4743_g1_i2	NA	GO:0055085	181.31	158.03	0.00	24.00	transmembrane transport
+
+c3677_g1_i1	O13692	GO:0071852	55.90	101.96	212.61	20.67	fungal-type cell wall organization or biogenesis
+
+c4697_g1_i4	O94664	GO:0051321	15.72	19.48	0.50	0.00	meiotic cell cycle
+
+c5830_g1_i1	O74402	GO:0051082	169.69	2077.10	67.61	94.50	unfolded protein binding
+
+c3934_g2_i1	P40376	GO:0075297	279.73	203.58	22.52	115.09	negative regulation of ascospore formation
+
+c5869_g1_i1	Q9P7G9	GO:0070814	59.88	319.01	292.74	10.88	hydrogen sulfide biosynthetic process
+
+c5229_g1_i1	NA	GO:0070814	517.33	2381.85	24.39	330.96	hydrogen sulfide biosynthetic process
+
+c5498_g1_i1	Q09819	GO:0046872	0.00	184.64	13.36	0.00	metal ion binding
+
+c4926_g1_i1	Q9HFF2	GO:0046872	1.90	49.35	48.48	9.32	metal ion binding
+
+c5428_g1_i1	NA	GO:0046872	8.03	0.00	0.00	55.37	metal ion binding
+
+c2213_g1_i1	Q9Y7P3	GO:0019433	21.88	0.00	58.45	25.34	triglyceride catabolic process
+
+c2093_g1_i1	O14137	GO:0055114	435.49	60.25	14.55	304.82	oxidation-reduction process
+
+c1530_g1_i1	Q10107	GO:0070475	11.87	62.06	156.51	14.73	rRNA base methylation
+
+c5064_g1_i1	Q9URY9	GO:0043169	103.60	0.00	0.00	254.38	cation binding
+
+c3249_g1_i1	O74876	GO:0051321	18.80	120.05	10.15	5.91	meiotic cell cycle
+
+c6049_g1_i1	Q10494	GO:0055114	1358.85	5111.14	190.36	836.13	oxidation-reduction process
+
+c3557_g1_i1	Q9UU76	GO:2000766	27.12	78.66	171.50	19.94	negative regulation of cytoplasmic translation
+
+c1666_g1_i1	Q09923	GO:0050235	126.73	75.99	45.13	358.61	pyrazolylalanine synthase activity
+
+c3957_g1_i1	P32747	GO:0055114	37.62	194.40	371.71	51.64	oxidation-reduction process
+
+c3065_g1_i1	O42890	GO:0008131	103.18	9.70	10.91	424.96	primary amine oxidase activity
+
+c5215_g1_i1	O94392	GO:0046872	105.03	12.04	29.51	393.28	metal ion binding
+
+c974_g1_i1	NA	GO:0046872	24.18	70.33	2.43	117.77	metal ion binding
+
+c2739_g1_i1	O13867	GO:0044206	4.29	7.73	1.38	96.26	UMP salvage
+
+c5094_g1_i1	NA	GO:0044206	32.05	33.16	6.62	87.64	UMP salvage
+
+c1431_g1_i1	Q10488	GO:0055114	346.33	670.85	21.30	249.89	oxidation-reduction process
+
+c3978_g1_i4	P24782	GO:0042254	0.00	0.00	201.67	20.00	ribosome biogenesis
+
+c4705_g1_i1	O59794	GO:0030529	278.69	858.80	1438.71	85.03	ribonucleoprotein complex
+
+c3086_g3_i1	NA	GO:0030529	43.47	13.91	23.78	185.77	ribonucleoprotein complex
+
+c2785_g1_i1	Q9P371	GO:0046872	38.43	0.00	10.22	61.93	metal ion binding
+
+c5079_g1_i1	Q9HDU2	GO:0046835	404.14	79.26	36.55	62.06	carbohydrate phosphorylation
+
+c2031_g1_i2	O13944	GO:0043234	0.00	18.90	0.00	0.00	protein complex
+
+c6230_g1_i1	Q9USM2	GO:0008150	594.98	162.52	14.72	642.97	biological_process
+
+c3880_g1_i1	O14201	GO:0051321	506.15	5.83	17.38	309.02	meiotic cell cycle
+
+c4999_g1_i1	Q10242	GO:0046316	826.93	118.63	68.55	573.41	gluconokinase activity
+
+c1387_g1_i2	O43070	GO:0044773	14.67	10.61	0.00	31.85	mitotic DNA damage checkpoint
+
+c1213_g1_i1	O13693	GO:0008150	136.64	72.76	12.22	158.86	biological_process
+
+c1476_g1_i1	O94570	GO:0080130	16.72	6.49	12.15	90.75	proteasome core complex assembly
+
+c3768_g2_i1	O42848	GO:0030529	1201.93	2859.50	3057.57	344.35	ribonucleoprotein complex
+
+c6290_g1_i1	P87133	GO:0051321	284.65	442.05	15.47	348.17	meiotic cell cycle
+
+c1172_g1_i1	O94681	GO:0045252	384.76	133.81	106.52	826.08	oxoglutarate dehydrogenase complex
+
+c4745_g8_i1	NA	GO:0045252	15.54	110.42	5.20	7.56	oxoglutarate dehydrogenase complex
+
+c4671_g1_i1	Q9C105	GO:1902409	5.22	18.25	73.44	0.00	mitotic cytokinetic cell separation
+
+c2617_g1_i1	Q9C0Q1	GO:0055085	63.18	360.00	258.57	29.70	transmembrane transport
+
+c6402_g1_i1	O13896	GO:0046872	11.63	30.40	116.67	8.49	metal ion binding
+
+c4782_g1_i1	P78890	GO:0008150	7084.80	1881.79	28.52	2506.47	biological_process
+
+c3496_g2_i1	O42699	GO:0030529	456.08	1302.34	1251.75	100.40	ribonucleoprotein complex
+
+c3267_g1_i1	NA	GO:0030529	47.61	8.38	1.99	281.76	ribonucleoprotein complex
+
+c4650_g1_i2	O14150	GO:0042254	833.21	2169.42	2399.21	176.64	ribosome biogenesis
+
+c3386_g1_i1	Q9P3W2	GO:0043234	4.31	91.05	4.33	7.35	protein complex
+
+c2061_g1_i1	O94340	GO:0016746	12.81	222.28	8.56	25.30	transferase activity, transferring acyl groups
+
+c4433_g1_i1	P87293	GO:0051286	57.43	45.55	10.50	93.05	cell tip
+
+c5909_g1_i1	Q09686	GO:0016740	485.06	172.61	23.60	1359.74	transferase activity
+
+c2031_g1_i1	O13944	GO:0043234	52.26	8.62	57.49	128.51	protein complex
+
+c1686_g1_i1	O74867	GO:0044183	60.94	13.66	27.59	157.61	protein binding involved in protein folding
+
+c2528_g1_i1	Q9UU78	GO:0030529	343.51	1109.67	1246.38	127.21	ribonucleoprotein complex
+
+c5988_g1_i1	O36032	GO:0034605	1354.49	2192.25	229.02	1018.28	cellular response to heat
+
+c729_g1_i1	Q09679	GO:0042125	22.29	5.02	0.00	63.78	protein galactosylation
+
+c5349_g1_i1	P78946	GO:0030529	1539.59	6177.03	4900.92	458.94	ribonucleoprotein complex
+
+c3847_g1_i1	NA	GO:0030529	7.19	128.87	5.73	2.90	ribonucleoprotein complex
+
+c4428_g1_i2	Q9P7D9	GO:0072686	105.98	3.95	0.00	60.59	mitotic spindle
+
+c3044_g1_i1	P55306	GO:0055114	1594.30	1213.81	26.20	602.80	oxidation-reduction process
+
+c2300_g1_i1	Q09910	GO:0046872	63.95	30.41	90.58	369.11	metal ion binding
+
+c988_g1_i1	Q9UQY9	GO:0051321	15.70	57.83	36.59	1.89	meiotic cell cycle
+
+c5773_g1_i1	Q10281	GO:2000766	1622.27	4479.84	4113.06	539.82	negative regulation of cytoplasmic translation
+
+c4302_g1_i1	Q9Y6Z9	GO:0055114	20.58	26.41	387.37	4.95	oxidation-reduction process
+
+c4733_g1_i2	NA	GO:0055114	0.00	140.80	0.00	0.00	oxidation-reduction process
+
+c241_g1_i2	NA	GO:0055114	9.79	0.01	7.84	37.08	oxidation-reduction process
+
+c4743_g1_i1	NA	GO:0055114	680.35	1067.14	114.89	171.88	oxidation-reduction process
+
+c4935_g1_i1	O74312	GO:0034045	7.23	101.52	0.00	0.00	pre-autophagosomal structure membrane
+
+c4640_g1_i1	Q9P7H9	GO:0046872	61.42	14.21	34.18	131.98	metal ion binding
+
+c1324_g2_i1	O74383	GO:0016021	98.11	11.51	3.28	583.13	integral component of membrane
+
+c4340_g3_i2	O14123	GO:1902600	39.43	105.35	8.79	22.21	hydrogen ion transmembrane transport
+
+c4443_g2_i1	Q1MTS0	GO:0032040	11.91	35.82	122.23	26.01	small-subunit processome
+
+c2091_g1_i1	Q9Y815	GO:0046872	157.05	267.76	14.09	178.31	metal ion binding
+
+c951_g1_i1	Q9P775	GO:0043234	13.02	84.74	152.89	22.73	protein complex
+
+c4488_g1_i2	P36582	GO:0090334	34.12	243.83	22.93	24.71	regulation of stomatal closure
+
+c6073_g1_i1	O59827	GO:0042493	315.62	48.50	25.14	207.27	response to drug
+
+c6253_g1_i1	P40903	GO:0090475	670.42	221.22	56.72	612.59	lys-lys specific dibasic protein processing
+
+c4225_g2_i1	Q9UT79	GO:0055114	0.00	33.81	0.00	22.50	oxidation-reduction process
+
+c1117_g1_i1	Q09919	GO:0055072	8.07	11.36	519.13	5.30	iron ion homeostasis
+
+c5818_g1_i1	O60057	GO:0051321	451.53	252.40	15.40	407.44	meiotic cell cycle
+
+c4744_g3_i1	Q9HFE8	GO:1900475	1.12	61.61	0.00	1.15	positive regulation of meiosis by negative regulation of transcription from RNA polymerase II promoter
+
+c6310_g1_i1	O94592	GO:0016021	79.39	12.81	26.83	290.35	integral component of membrane
+
+c2969_g1_i1	Q10361	GO:0055114	28.63	0.00	30.24	80.76	oxidation-reduction process
+
+c5847_g1_i1	Q9P7U2	GO:0055114	448.94	640.16	169.88	40.81	oxidation-reduction process
+
+c4565_g1_i1	O14345	GO:0090002	84.90	57.62	20.53	172.89	establishment of protein localization to plasma membrane
+
+c6378_g1_i1	Q9UTI9	GO:0016021	807.31	34.61	15.82	1449.08	integral component of membrane
+
+c3578_g1_i1	Q7LKX0	GO:0030176	148.52	52.57	96.60	501.69	integral component of endoplasmic reticulum membrane
+
+c2987_g1_i1	P53693	GO:0008150	5339.15	3244.36	227.27	3238.78	biological_process
+
+c361_g1_i1	Q9UTE6	GO:0042254	13.26	56.01	143.03	14.68	ribosome biogenesis
+
+c1717_g1_i1	NA	GO:0042254	4.63	9.56	0.00	49.76	ribosome biogenesis
+
+c4913_g1_i1	NA	GO:0042254	816.41	3451.39	1395.82	366.56	ribosome biogenesis
+
+c3570_g1_i1	Q9UTE7	GO:0032543	20.34	0.00	15.16	3.76	mitochondrial translation
+
+c4686_g1_i1	O74899	GO:1903092	6.49	2.33	10.07	213.78	pyridoxine transmembrane transport
+
+c4940_g1_i1	O14015	GO:0051321	586.89	18.27	7.15	1479.83	meiotic cell cycle
+
+c6213_g1_i1	O74752	GO:1900035	101.49	1484.17	384.86	21.08	negative regulation of cellular response to heat
+
+c6596_g1_i1	O14143	NA	75.53	31.66	0.00	625.60	negative regulation of cellular response to heat
+
+c3606_g1_i3	O94611	GO:0051321	15.65	44.06	0.00	18.32	meiotic cell cycle
+
+c1043_g1_i1	Q9P7F4	GO:0055114	244.58	326.16	14.91	125.65	oxidation-reduction process
+
+c5962_g1_i1	O14388	GO:0030529	1080.59	2998.67	3045.40	228.74	ribonucleoprotein complex
+
+c4681_g1_i2	O13339	GO:0046872	17.42	0.00	11.55	16.31	metal ion binding
+
+c1100_g1_i2	O94515	GO:0051082	0.00	0.00	0.00	35.87	unfolded protein binding
+
+c2937_g2_i1	NA	GO:0051082	7.42	26.84	5.31	122.35	unfolded protein binding
+
+c5816_g1_i1	O14368	GO:0061077	6533.07	16789.56	100.46	19091.05	chaperone-mediated protein folding
+
+c3739_g2_i1	O94396	GO:0046872	3.58	17.61	72.63	8.22	metal ion binding
+
+c4745_g1_i1	O59698	GO:1902047	7.25	1.46	63.39	20.11	polyamine transmembrane transport
+
+c1216_g1_i1	O14081	GO:0016757	504.65	1014.83	105.51	195.16	transferase activity, transferring glycosyl groups
+
+c4670_g1_i1	Q9URY5	GO:0070458	21.08	28.57	0.00	6.06	cellular detoxification of nitrogen compound
+
+c4865_g1_i1	O94298	GO:0055114	113.98	63.41	108.45	515.14	oxidation-reduction process
+
+c3987_g1_i1	G2TRR9	GO:0008150	9.48	0.00	1.66	210.69	biological_process
+
+c6448_g1_i1	O14088	GO:0055114	297.36	1151.15	8.80	114.86	oxidation-reduction process
+
+c3112_g1_i3	O14059	GO:0016787	2.26	0.00	0.00	15.87	hydrolase activity
+
+c4384_g1_i1	P32586	GO:1990264	170.12	192.72	5.49	55.97	peptidyl-tyrosine dephosphorylation involved in inactivation of protein kinase activity
+
+c4474_g1_i1	Q9URW3	GO:0008270	67.70	15.09	4.71	237.69	zinc ion binding
+
+c1718_g1_i1	Q10202	GO:0042254	8.62	34.88	252.35	19.82	ribosome biogenesis
+
+c2142_g1_i1	Q9USZ7	GO:0030479	0.00	16.35	5.17	27.79	actin cortical patch
+
+c4048_g1_i1	O13801	GO:0046872	18.61	26.82	133.78	15.40	metal ion binding
+
+c4716_g2_i3	Q10265	GO:0051082	1493.30	6656.33	22.73	525.74	unfolded protein binding
+
+c5275_g1_i1	P17610	GO:0071852	5.04	0.00	0.00	143.70	fungal-type cell wall organization or biogenesis
+
+c3817_g1_i1	O74775	GO:0046872	121.84	138.16	35.03	409.98	metal ion binding
+
+c4419_g1_i2	Q9UT29	GO:0051321	71.83	0.00	53.68	67.31	meiotic cell cycle
+
+c1182_g1_i1	Q09817	GO:0015031	9.64	51.58	107.70	19.05	protein transport
+
+c4851_g1_i1	O13702	GO:0055114	2740.62	301.18	16.77	1178.36	oxidation-reduction process
+
+c923_g1_i1	Q09799	GO:0044732	6.89	48.52	93.63	12.46	mitotic spindle pole body
+
+c4753_g2_i1	O42885	GO:0055085	17.66	6.48	250.23	57.65	transmembrane transport
+
+c3180_g1_i1	Q9URX4	GO:0090599	10.13	43.56	2.26	10.93	NA
+c1131_g1_i1	Q10108	GO:0051321	144.69	162.91	44.37	370.06	meiotic cell cycle
+
+c4752_g1_i2	O74306	GO:0042254	592.32	1584.65	1847.99	172.91	ribosome biogenesis
+
+c409_g1_i1	O74876	GO:0051321	0.00	172.63	2.49	0.00	meiotic cell cycle
+
+c4741_g1_i1	Q9P7T9	GO:0055085	27.23	0.00	12.87	13.85	transmembrane transport
+
+c5501_g1_i1	O60103	GO:0061630	0.00	120.50	0.00	0.00	ubiquitin protein ligase activity
+
+c4395_g1_i1	O74333	GO:0090002	64.32	38.62	0.00	17.46	establishment of protein localization to plasma membrane
+
+c4425_g1_i4	P79081	GO:0016746	87.63	232.67	101.82	18.53	transferase activity, transferring acyl groups
+
+c824_g1_i1	Q9P380	GO:0071916	121.42	17.29	274.54	35.86	dipeptide transmembrane transporter activity
+
+c2827_g1_i1	O42873	GO:0046872	220.63	11.07	5.10	579.46	metal ion binding
+
+c4649_g1_i1	Q9HDY5	GO:0008150	23.62	551.53	19.99	26.39	biological_process
+
+c2721_g4_i1	P87229	GO:0043234	16.32	18.00	1.09	41.29	protein complex
+
+c3073_g1_i1	O74780	GO:0008150	44.50	1.23	12.25	79.36	biological_process
+
+c4392_g1_i1	Q09918	GO:0008150	13.28	3.11	3.33	73.50	biological_process
+
+c4477_g1_i2	Q9Y819	GO:0016021	0.00	0.00	0.00	15.28	integral component of membrane
+
+c1844_g1_i1	Q8TGM7	GO:0008150	1172.28	4467.16	497.72	3369.76	biological_process
+
+c4741_g1_i2	Q9P7T9	GO:0055085	6.52	2.18	0.00	366.75	transmembrane transport
+
+c5066_g1_i1	P36604	GO:0051084	350.67	1862.20	606.22	64.62	'de novo' posttranslational protein folding
+
+c1223_g1_i1	Q10092	GO:0016787	60.59	759.90	64.03	18.80	hydrolase activity
+
+c466_g1_i1	Q9P7G0	GO:0042254	11.30	24.52	122.79	17.80	ribosome biogenesis
+
+c4491_g1_i1	NA	GO:0042254	249.96	1037.83	654.60	56.87	ribosome biogenesis
+
+c6376_g1_i1	O14082	GO:0055114	470.80	194.48	20.78	0.00	oxidation-reduction process
+
+c4453_g1_i1	O59868	GO:0071421	0.03	41.36	5.00	22.21	manganese ion transmembrane transport
+
+c4515_g3_i2	O94421	GO:1900400	0.00	5.95	4.26	23.07	regulation of iron ion import by regulation of transcription from RNA polymerase II promoter
+
+c3910_g4_i1	Q9P768	GO:0055085	158.39	7.64	25.17	379.50	transmembrane transport
+
+c3928_g2_i1	O13791	GO:0034605	214.07	1685.05	82.76	154.48	cellular response to heat
+
+c4605_g1_i1	NA	GO:0034605	1459.10	6902.64	404.54	4290.48	cellular response to heat
+
+c3054_g1_i1	Q92341	GO:0055085	0.00	3.52	82.79	2.56	transmembrane transport
+
+c447_g1_i1	Q09816	GO:0019509	42.47	151.26	236.46	22.14	L-methionine biosynthetic process from methylthioadenosine
+
+c2355_g1_i1	Q9URU9	GO:0045721	44.16	29.83	7.97	91.15	negative regulation of gluconeogenesis
+
+c3757_g1_i1	O14091	GO:0055054	125.12	271.18	24.34	66.53	fructose:proton symporter activity
+
+c3768_g1_i1	O42991	GO:0030529	360.47	928.51	995.32	115.37	ribonucleoprotein complex
+
+c1235_g1_i1	O13844	GO:0055085	6.56	73.88	125.05	15.64	transmembrane transport
+
+c8_g1_i1	C6Y4D4	GO:0008150	61.02	12.27	23.32	996.96	biological_process
+
+c4760_g1_i1	O59824	GO:0046872	43.11	8.26	0.00	11.02	metal ion binding
+
+c1157_g1_i1	O42634	GO:0051321	40.70	199.01	22.14	14.10	meiotic cell cycle
+
+c870_g1_i1	Q9C1X5	GO:0055114	195.91	78.41	23.33	191.43	oxidation-reduction process
+
+c2544_g1_i1	O14014	GO:0051286	57.57	5.94	6.16	77.26	cell tip
+
+c6270_g1_i1	Q9USX0	GO:0071555	0.00	0.00	0.00	48.36	cell wall organization
+
+c1214_g1_i1	O14017	GO:0045046	10.57	13.27	23.91	0.00	protein import into peroxisome membrane
+
+c5093_g1_i1	Q9P6J3	GO:0046379	92.91	13.06	9.43	82.06	extracellular polysaccharide metabolic process
+
+c3920_g1_i1	O42973	GO:0043234	51.84	139.70	8.88	112.41	protein complex
+
+c6237_g1_i1	O14463	GO:1990355	987.51	5190.95	806.88	250.29	L-methionine biosynthetic process from methionine sulphoxide
+
+c4807_g1_i1	O74770	GO:0016832	500.48	328.06	14.52	39.79	aldehyde-lyase activity
+
+c4412_g1_i1	P41390	GO:0046872	14.03	9.94	0.00	37.59	metal ion binding
+
+c6209_g1_i1	Q9URZ0	GO:0052692	33.35	4.17	0.74	68.17	raffinose alpha-galactosidase activity
+
+c267_g1_i1	Q9UTK0	GO:0090502	7.71	46.65	95.87	14.18	RNA phosphodiester bond hydrolysis, endonucleolytic
+
+c4430_g2_i1	Q92354	GO:0030529	395.39	941.17	1593.85	40.78	ribonucleoprotein complex
+
+c4676_g2_i2	O74521	GO:0035091	45.32	36.92	5.09	137.62	phosphatidylinositol binding
+
+c6222_g1_i1	O13741	GO:0042254	9.32	106.78	116.82	11.56	ribosome biogenesis
+
+c6061_g1_i1	O42914	GO:0051880	1059.64	1567.39	2337.59	192.46	G-quadruplex DNA binding
+
+c3149_g1_i1	Q92383	GO:0052822	18.41	30.49	3.26	57.56	very long chain acyl-CoA hydrolase activity
+
+c4502_g1_i2	O14112	GO:0030529	412.56	1232.47	1761.92	168.36	ribonucleoprotein complex
+
+c1965_g1_i1	P87115	GO:0070317	11.49	46.21	109.92	9.65	nucleosomal methylation activator complex
+
+c1859_g1_i1	Q96WU9	GO:0008150	489.05	128.59	5.00	838.69	biological_process
+
+c2253_g1_i1	Q9UUI7	GO:0016757	546.50	456.85	14.98	126.57	transferase activity, transferring glycosyl groups
+
+c5059_g1_i1	NA	GO:0016757	430.65	1062.94	38.68	591.12	transferase activity, transferring glycosyl groups
+
+c3421_g1_i1	Q7Z995	GO:0008150	33.78	14.07	0.00	71.48	biological_process
+
+c948_g1_i1	O14034	GO:0051907	46.92	24.01	10.69	658.08	S-(hydroxymethyl)glutathione synthase activity
+
+c2153_g1_i1	O43012	GO:0046872	0.00	18.87	22.68	0.00	metal ion binding
+
+c6134_g1_i1	Q9HDX3	GO:0016787	168.07	3.38	2.41	2637.38	hydrolase activity
+
+c4730_g1_i3	Q9P4W9	GO:0030529	481.31	862.76	1497.02	130.68	ribonucleoprotein complex
+
+c4501_g1_i1	O60144	GO:0042254	814.52	2415.67	2300.68	250.33	ribosome biogenesis
+
+c5242_g1_i1	Q10211	GO:0044264	291.43	117.69	2.88	274.33	cellular polysaccharide metabolic process
+
+c4586_g1_i1	O94338	GO:0046872	144.94	34.59	18.11	270.59	metal ion binding
+
+c5219_g1_i1	Q9UTM8	GO:0055114	1393.40	44.17	8.04	130.41	oxidation-reduction process
+
+c2442_g1_i2	O94695	GO:0071917	0.03	43.16	0.00	0.00	triose-phosphate transmembrane transporter activity
+
+c5072_g1_i1	O74766	GO:0055114	101.86	472.24	833.38	56.12	oxidation-reduction process
+
+c2245_g1_i1	Q10342	GO:0042273	6.85	21.56	57.83	4.53	ribosomal large subunit biogenesis
+
+c3172_g2_i1	Q9UT56	GO:0042254	227.31	1054.67	1278.23	38.96	ribosome biogenesis
+
+c5195_g1_i1	Q09676	GO:0016787	31.08	56.87	630.78	131.27	hydrolase activity
+
+c5878_g1_i1	NA	GO:0016787	589.04	23.19	2.07	917.58	hydrolase activity
+
+c6537_g1_i1	O74382	GO:0046872	2.18	0.00	7.84	50.53	metal ion binding
+
+c6208_g1_i1	Q09741	GO:0016740	194.41	683.76	773.81	54.45	transferase activity
+
+c4225_g2_i2	Q9UT79	GO:0055114	24.92	0.00	16.32	0.00	oxidation-reduction process
+
+c4702_g1_i3	O14277	GO:0042254	460.83	1064.27	1722.05	230.43	ribosome biogenesis
+
+c6496_g1_i1	Q8WZK4	GO:0045116	8.32	103.13	0.19	3.67	protein neddylation
+
+c4518_g1_i1	O42662	GO:0032259	8.15	5.23	0.00	27.76	methylation
+
+c3457_g1_i1	Q9US41	GO:0046872	13.90	37.48	2.32	144.94	metal ion binding
+
+c1393_g1_i1	NA	GO:0046872	223.38	991.51	512.12	107.86	metal ion binding
+
+c5103_g1_i1	Q09864	GO:0061077	0.00	23.80	12.27	39.51	chaperone-mediated protein folding
+
+c1593_g2_i1	NA	GO:0061077	0.00	126.80	0.00	0.00	chaperone-mediated protein folding
+
+c998_g1_i1	P57728	GO:0030529	162.85	343.78	436.35	11.89	ribonucleoprotein complex
+
+c5963_g1_i1	Q9URX9	GO:0042254	5.63	22.79	80.50	20.86	ribosome biogenesis
+
+c2316_g2_i1	NA	GO:0042254	54.09	2.48	13.56	15.62	ribosome biogenesis
+
+c6128_g1_i1	O74538	GO:0030529	505.64	1931.57	1847.00	102.13	ribonucleoprotein complex
+
+c3837_g1_i1	Q10487	GO:1902047	9.97	27.61	0.00	18.75	polyamine transmembrane transport
+
+c4469_g2_i1	NA	GO:1902047	15.02	80.03	7.53	116.50	polyamine transmembrane transport
+
+c4327_g2_i1	O60100	GO:0031965	8.54	24.04	63.63	3.74	nuclear membrane
+
+c2191_g1_i1	NA	GO:0031965	2.10	2.50	0.00	206.95	nuclear membrane
+
+c6064_g1_i1	Q10212	GO:0008150	58.56	12.77	2.48	87.65	biological_process
+
+c6147_g1_i1	NA	GO:0008150	4.31	6.07	1.44	55.82	biological_process
+
+c3904_g1_i1	O94426	GO:0008150	532.21	619.21	88.42	59.22	biological_process
+
+c4685_g1_i1	P36624	GO:0055114	203.12	57.36	14.07	123.58	oxidation-reduction process
+
+c4381_g1_i1	O59759	GO:0030968	38.52	0.00	15.64	108.19	endoplasmic reticulum unfolded protein response
+
+c4834_g1_i1	Q9P6M1	GO:0055114	590.63	268.07	44.95	354.10	oxidation-reduction process
+
+c743_g1_i1	P25457	GO:0030529	325.25	1165.18	1580.30	172.65	ribonucleoprotein complex
+
+c4365_g1_i2	O74401	GO:0015035	44.56	202.28	17.56	28.61	protein disulfide oxidoreductase activity
+
+c1344_g1_i1	O14169	GO:0031966	245.72	149.60	29.08	516.98	mitochondrial membrane
+
+c5499_g1_i1	NA	GO:0031966	134.61	17.65	13.72	331.51	mitochondrial membrane
+
+c3970_g1_i2	Q9P7S1	GO:0051603	10.07	21.83	0.00	0.13	proteolysis involved in cellular protein catabolic process
+
+c2718_g1_i1	Q9UT45	GO:1902409	2.77	11.27	117.10	3.15	mitotic cytokinetic cell separation
+
+c2529_g1_i1	O94723	GO:0032543	655.44	141.99	34.17	1157.41	mitochondrial translation
+
+c712_g1_i1	NA	GO:0032543	169.92	1267.58	385.45	86.12	mitochondrial translation
+
+c2953_g1_i2	P79057	GO:0030529	442.51	1666.69	1709.06	123.91	ribonucleoprotein complex
+
+c1948_g1_i2	P87143	GO:0046872	16.22	17.10	0.00	25.22	metal ion binding
+
+c4517_g1_i1	Q9UTL8	GO:0031410	0.00	0.00	12.05	0.00	cytoplasmic vesicle
+
+c1381_g1_i1	NA	GO:0031410	153.69	355.05	490.04	56.30	cytoplasmic vesicle
+
+c2826_g1_i2	NA	GO:0031410	3.02	89.71	2.60	0.00	cytoplasmic vesicle
+
+c6126_g1_i1	Q11004	GO:0043234	365.36	2400.00	474.43	26.93	protein complex
+
+c3987_g1_i2	G2TRR9	GO:0008150	57.96	25.97	0.00	324.59	biological_process
+
+c3660_g2_i1	Q92365	GO:0030529	582.40	2148.51	2358.76	281.78	ribonucleoprotein complex
+
+c6130_g1_i1	O43090	GO:0055114	695.83	182.61	80.38	1575.00	oxidation-reduction process
+
+c5918_g1_i1	Q9C0Y7	GO:0008150	411.87	3095.41	213.39	1531.79	biological_process
+
+c4596_g1_i3	O94590	GO:0051286	0.00	0.00	0.00	26.01	cell tip
+
+c5973_g1_i1	Q9USG6	GO:0030529	670.13	2760.32	2447.34	175.58	ribonucleoprotein complex
+
+c6083_g1_i1	Q9HDX2	GO:0055114	75.56	1.82	11.24	174.22	oxidation-reduction process
+
+c6161_g1_i1	Q9P7C0	GO:0032040	11.15	56.49	117.43	17.09	small-subunit processome
+
+c1879_g1_i1	Q9US43	GO:0044206	21.47	46.05	5.13	79.41	UMP salvage
+
+c5925_g1_i1	O43030	GO:0071629	189.06	4286.38	195.05	57.96	cytoplasm-associated proteasomal ubiquitin-dependent protein catabolic process
+
+c2195_g1_i1	Q9P7G6	GO:0006974	40.65	38.37	135.73	10.64	cellular response to DNA damage stimulus
+
+c231_g1_i2	O13788	GO:0045944	0.00	34.96	0.00	3.75	positive regulation of transcription from RNA polymerase II promoter
+
