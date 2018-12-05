@@ -5,8 +5,10 @@ Created on Nov 14, 2018
 '''
 import re
 
-blast_file = open('/scratch/RNASeq/blastp.outfmt6')
-diff_expr_file = open('/scratch/RNASeq/diffExpr.P1e-3_C2.matrix')
+#blast_file = open('/scratch/RNASeq/blastp.outfmt6')
+blast_file = open('/Users/trish/Desktop/blastp.outfmt6')
+#diff_expr_file = open('/scratch/RNASeq/diffExpr.P1e-3_C2.matrix')
+diff_expr_file = open('/Users/trish/Desktop/diffExpr.P1e-3_C2.matrix')
 output_file = open("mod11_report.txt", "w")
 
 # Function to parse a single line of BLAST output and return transcript ID and SwissProt ID
@@ -45,7 +47,7 @@ list_of_DE_tuples = map(parse_DE, diff_expr_file.readlines())
 
 # Tab-separate the list of tuples using map with tuple_to_tab function and list of tuples as input
 list_of_tabbed_lines = map(tuple_to_tab_sep, list_of_DE_tuples)
-
+print(list_of_tabbed_lines)
 # Write everything to output file separated by newlines
 output_file.write("\n".join(list_of_tabbed_lines))
 

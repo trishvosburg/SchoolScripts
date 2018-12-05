@@ -2,7 +2,7 @@
 -- START DISKCACHE_2
 /Users/trish/workspace/BINF6200/.metadata/.plugins/org.eclipse.core.resources/.projects/Module11/com.python.pydev.analysis/v2_indexcache
 mod11_quiz|1542470336000000000|/Users/trish/workspace/BINF6200/Module11/mod11_quiz.py
-mod11_assignment|1542400877000000000|/Users/trish/workspace/BINF6200/Module11/mod11_assignment.py
+mod11_assignment|1543685048000000000|/Users/trish/workspace/BINF6200/Module11/mod11_assignment.py
 -- END DISKCACHE
 -- START DICTIONARY
 6
@@ -15,15 +15,15 @@ mod11_assignment|1542400877000000000|/Users/trish/workspace/BINF6200/Module11/mo
 -- END DICTIONARY
 -- START TREE 1
 9
-ana|1|analyze_blast_line!1^13#5*18@
-bla|2|blast_file!1^8#1*19@blast_dictionary!1^23#1*19@
+ana|1|analyze_blast_line!1^15#5*18@
+bla|2|blast_file!1^9#1*19@blast_dictionary!1^25#1*19@
 cre|1|create_single_record!3^14#5*34@
-dif|1|diff_expr_file!1^9#1*19@
-lis|3|list_of_tabbed_lines!1^47#1*19@list_of_matrix_objects!3^18#1*35@list_of_DE_tuples!1^44#1*19@
+dif|1|diff_expr_file!1^11#1*19@
+lis|3|list_of_tabbed_lines!1^49#1*19@list_of_matrix_objects!3^18#1*35@list_of_DE_tuples!1^46#1*19@
 mat|2|matrix_file!3^7#1*35@Matrix!3^9#7*33@
-out|1|output_file!1^10#1*19@
-par|1|parse_DE!1^31#5*18@
-tup|1|tuple_to_tab_sep!1^40#5*18@
+out|1|output_file!1^12#1*19@
+par|1|parse_DE!1^33#5*18@
+tup|1|tuple_to_tab_sep!1^42#5*18@
 -- END TREE
 -- START TREE 2
 2
